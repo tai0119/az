@@ -22,7 +22,13 @@ main
 2) The programme will start with showing the default game setting.
 3) User can choose either remain the default setting or change the setting.
 4) User start game by giving the command: up, down, left, right, to control the activity of Alien
-5) User give the command arrow to change the direction of user.
+5) User give the command game object arrow to change the direction of user.
+6）User can interact with other game objects inside the game board such as health(h), pod(p), rock(r), empty( ),trail(.)
+7) Alien and Zombie hava random life and attack at the beginning of the game. 
+8) Alien's attack always starts from zero at each run and only will be accumulated by collecting the arrow object(same next run be zero attack).
+9) Zombie has range attribute to defines how far Zombie's attack can reach.
+10) The game over when the situation that either Alien die(life = 0) or Zombie die.
+11) During playing, user can choose to save the game for next time play.
 
 
 Please DO NOT change the Progress Log below. Leave it as it is.
