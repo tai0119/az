@@ -17,6 +17,7 @@ to-be-done
 5. saving and loading game file
 6. game flow
 
+
 ### Completed
 
 1. Main Menu (Editable setting: ONLY accept odd number for the column and row)
@@ -63,4 +64,4 @@ to-be-done
 ## Problems Encountered & Solutions
 
 bug: Alien will repeat twice when user give command down.
-solution:  using
+solution:  using if-else function to control the setObject() function run
