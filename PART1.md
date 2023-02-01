@@ -5,6 +5,17 @@
 Please provide the YouTube link to your [Video Demo](https://www.youtube.com/watch?v=e3GVJavetJc).
 
 ## Minimum Requirements
+completed:
+1. Game Board
+2. Game object
+
+to-be-done
+1. attribute
+2. movement and attact
+3. multiple zombies
+4. game controls
+5. saving and loading game file
+6. game flow
 
 ### Completed
 
